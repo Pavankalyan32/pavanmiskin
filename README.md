@@ -15,7 +15,7 @@
 - Building projects from scratch
 
 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/pavan-miskin-394161243/)) | [GitHub](https://github.com/pavankalyan32) | Email: pavanmiskin72@gmail.com
+[LinkedIn](https://www.linkedin.com/in/pavan-miskin-394161243/) | [GitHub](https://github.com/pavankalyan32) | Email: pavanmiskin72@gmail.com
 
 ⚡ Fun fact:
 I love solving real-world problems using AI and building cool, useful tools!
